@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         Simple 4pda Adblock
-// @namespace    http://tampermonkey.net/
+// @namespace    4PDA
 // @version      1.0
 // @description  4pda simple adblocker.
 // @author       retrojan
