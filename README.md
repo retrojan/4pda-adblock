@@ -1,0 +1,1 @@
+# MinAdblocker-4pda
